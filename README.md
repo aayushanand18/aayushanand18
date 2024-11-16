@@ -13,7 +13,7 @@
 
 ### 💼 My Experience:
 - **Software Engineer Intern at Anonimo Interactive**
-  Contributed to Salesy, a full-stack sales management application, developing features with React.js, integrating Socket.io for real-time updates, building RESTful APIs with Node.js/Express, and optimizing performance for seamless user experience.
+   Contributed to Salesy, a full-stack sales management application, developing features with React.js, integrating Socket.io for real-time updates, building RESTful APIs with Node.js/Express, and optimizing performance for seamless user experience.
 
 - **Former Software Engineer Intern at Resolve Tech Solutions**  
   Worked on revamping **7Eleven's web portal**, improving user engagement by 5 minutes per session for over 10,000 daily users.
