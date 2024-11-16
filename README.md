@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Aayush Anand
+# Hi there 👋 I'm Aayush Anand
 
 🚀 I’m a **Computer Science Engineering** student at **Birla Institute of Technology, Mesra**, currently in my pre-final year, with a passion for Full Stack Web Development, Software Engineering, and Machine Learning.
 
@@ -6,22 +6,25 @@
 - Enhancing everyday experiences by building innovative and impactful technology solutions.
 - Continuously pushing boundaries in **software development** to create efficient, scalable, and user-centric applications.
 
-
 ### 🌱 What I’m learning:
 - Exploring advanced concepts in **Machine Learning**.
 - Enhancing my skills in **Web Development** and **Data Structures**.
 
 ### 💼 My Experience:
-- **Software Engineer Intern at Anonimo Interactive**
-   Contributed to Salesy, a full-stack sales management application, developing features with React.js, integrating Socket.io for real-time updates, building RESTful APIs with Node.js/Express, and optimizing performance for seamless user experience.
+- **Software Engineer Intern at Anonimo Interactive**  
+  Contributed to **Salesy**, a full-stack sales management application by:
+  - Developing features with **React.js** for the frontend.
+  - Integrating **Socket.io** for real-time updates.
+  - Building **RESTful APIs** with **Node.js** and **Express.js**.
+  - Optimizing performance for a seamless user experience.
 
 - **Former Software Engineer Intern at Resolve Tech Solutions**  
-  Worked on revamping **7Eleven's web portal**, improving user engagement by 5 minutes per session for over 10,000 daily users.
-  
+  Worked on revamping **7Eleven's web portal**, enhancing user engagement by **5 minutes per session** for over **10,000 daily users**.
+
 - **Full Stack Developer**  
   Created several projects, including:
-  - **Chat-a-BIT**: A real-time chat platform for BIT Mesra students.
-  - **Voyage Villas**: A travel booking website optimized for performance.
+  - **Chat-a-BIT**: A real-time chat platform for **BIT Mesra students**.
+  - **Voyage Villas**: A **travel booking website** optimized for performance.
 
 ### 💻 Technical Skills:
 - **Languages**: Java, Python, JavaScript, C++
